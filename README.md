@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 💬 You can ask me about "HTML, CSS, JAVASCRIPT, REACT, THREE.js AND ELECTRON.js"
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 🌱 I’m currently learning **Backend Development** 
 
-- 💬 Ask me about **react**
+- 👯 I’m looking to collaborate with **Web Development**
 
-- 📫 How to reach me **kanhasaidapure@gmail.com**
+- 📫 You can reach me on **kanhasaidapure@gmail.com**
 
-- ⚡ Fun fact **I think I am happy**
+- ⚡ Fun fact **I know a lil bit of linux and computer networking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
