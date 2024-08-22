@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/656542eae3674ef944805d5d_make%20money%20hacking.webp)]
-<h1 align="center">Hi 👋, I'm Krishnasaidapure</h1>
+<h1 align="center">Hi 👋, I'm Krishna Saidapure</h1>
 <h3 align="center">Frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/AAmoI9l1JnkAAAAC/meme.gif">
 
